@@ -2,7 +2,7 @@
 
 A simple snake game implemented in C using Turbo C++ v3.2.
 
-![control](images\game_grass.png)
+![control](images/game_grass.png)
 
 ## About
 
@@ -51,11 +51,11 @@ To run this C snake game, you need to download and set up Turbo C++ v3.2.
 
 ## Screenshots of the game
 ---
-![control](images\splash_screen.png)
-![control](images\main_menu.png)
-![control](images\control_screen.png)
-![control](images\theme_screen.png)
+![control](images/splash_screen.png)
+![control](images/main_menu.png)
+![control](images/control_screen.png)
+![control](images/theme_screen.png)
 
-![control](images\game_ocean.png)
-![control](images\gameover_screen.png)
-![control](images\credits_screen.png)
+![control](images/game_ocean.png)
+![control](images/gameover_screen.png)
+![control](images/credits_screen.png)
